@@ -42,6 +42,9 @@
 ### Решение 4.
 
 Скриншот 1 к заданию 4  
+![Screen 1](https://github.com/jack34ru/ELK/blob/main/screenshots/Screenshot_156.png)
+
+Скриншот 2 к заданию 4  
 ![Screen 1](https://github.com/jack34ru/ELK/blob/main/screenshots/Screenshot_157.png)
 
 
